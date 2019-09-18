@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75959743111",
+    "firebase_url": "https://blogapp-edffc.firebaseio.com",
+    "project_id": "blogapp-edffc",
+    "storage_bucket": "blogapp-edffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75959743111:android:4b6a8f9fccfa55530f3e22",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75959743111-hh73sapviuepmmqmhl0ks7n6ensmg1qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-WfXu_2-E-E8Off6s6-Ta-tFwE5rHA9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75959743111-hh73sapviuepmmqmhl0ks7n6ensmg1qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
