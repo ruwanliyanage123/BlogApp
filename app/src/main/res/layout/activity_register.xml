@@ -7,7 +7,7 @@
     tools:context=".Activities.RegisterActivity">
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/regUserPhoto"
         android:layout_width="115dp"
         android:layout_height="103dp"
         android:src="@drawable/admin"
@@ -26,7 +26,7 @@
         app:layout_constraintBottom_toTopOf="@+id/regMail"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/regUserPhoto"
         app:layout_constraintVertical_bias="0.286" />
 
     <EditText
@@ -38,7 +38,7 @@
         android:inputType="textPersonName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+        app:layout_constraintTop_toBottomOf="@+id/regUserPhoto" />
 
     <EditText
         android:id="@+id/regPassword"
